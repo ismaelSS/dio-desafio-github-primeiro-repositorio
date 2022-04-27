@@ -1,2 +1,2 @@
 # dio-desafio-github-primeiro-repositorio
-desafio de projeito sobre git/github bootcamp spread
+Repositorio criado Para o desafio de projeto.
