@@ -2,7 +2,7 @@
 
 
 
-
+// essas anotações foram feitas para mim, provavelmente não servirão par outras pessoas
 
 **oque é Git?:** software aberto de versionamento de de projetos
 Criador: Linux Torvalds, o mesmo do linux!!
