@@ -33,5 +33,20 @@ Criador: Linux Torvalds, o mesmo do linux!!
 | ------------------------------------- | -------------------------------------- |
 | cd<br />dir<br />mkdir<br />del/rmdir | cd<br />ls<br />mkdir<br />rm/rf<br /> |
 
-
 [comandos importantes](https://github.com/ismaelSS/dio-desafio-github-primeiro-repositorio/blob/main/comandos_importantes.md) 
+
+​                                          
+
+Commit -------- Tree----- blob
+
+
+
+* **git init**: inicia um repositorio git
+
+* **git add**: "sinaliza pro git um arquivo que você quer adicionar ao repositorio"
+
+* **git commit -m**: commita as alterações com uma mensagem 
+
+  * OBS: é uma boa pratica e de estrema importância que se  especifique as alterações no na mensagem do commit
+
+  
