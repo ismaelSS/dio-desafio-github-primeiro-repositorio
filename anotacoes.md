@@ -34,4 +34,4 @@ Criador: Linux Torvalds, o mesmo do linux!!
 | cd<br />dir<br />mkdir<br />del/rmdir | cd<br />ls<br />mkdir<br />rm/rf<br /> |
 
 
-
+[comandos importantes](https://github.com/ismaelSS/dio-desafio-github-primeiro-repositorio/blob/main/comandos_importantes.md) 
